@@ -1,2 +1,2 @@
 # MINECRAFT-TAIGA-BIOME-LOL
-# Elliot is GAE
+# Eliot is GAE
